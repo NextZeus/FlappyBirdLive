@@ -52,6 +52,7 @@
      <Compile Include="Assets\Flappy Bird Style\Scripts\GameControl.cs" />
      <Compile Include="Assets\Flappy Bird Style\Scripts\RepeatingBackground.cs" />
      <Compile Include="Assets\Flappy Bird Style\Scripts\ScrollingObject.cs" />
+     <Compile Include="Assets\Live\Scripts\BirdLive.cs" />
      <None Include="Assets\Flappy Bird Style\_ReadMe.txt" />
  <Reference Include="Facebook.Unity.Settings">
  <HintPath>/Users/lixd/Documents/myProject/unityProjects/FlappyBirdLive/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
