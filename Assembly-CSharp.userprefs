@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{F1F781C5-D1DC-6BE4-DD9D-92EE40F6E7D2}|Unit Tests">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Live/Scripts/BirdLive.cs">
     <Files>
-      <File FileName="Assets/Live/Scripts/BirdLive.cs" Line="16" Column="13" />
+      <File FileName="Assets/Live/Scripts/BirdLive.cs" Line="14" Column="20" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
