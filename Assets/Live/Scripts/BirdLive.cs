@@ -30,5 +30,6 @@ public class BirdLive : MonoBehaviour {
     {
         isDead = true;
 		anim.SetTrigger("Die");
+        GameController.instance.BirdDied();
 	}
 }
