@@ -54,6 +54,7 @@
      <Compile Include="Assets\Flappy Bird Style\Scripts\ScrollingObject.cs" />
      <Compile Include="Assets\Live\Scripts\BirdLive.cs" />
      <Compile Include="Assets\Live\Scripts\ColumnLive.cs" />
+     <Compile Include="Assets\Live\Scripts\ColumnPoolLive.cs" />
      <Compile Include="Assets\Live\Scripts\GameController.cs" />
      <Compile Include="Assets\Live\Scripts\RepatingBackGroundLive.cs" />
      <Compile Include="Assets\Live\Scripts\ScrollingObjectLive.cs" />
