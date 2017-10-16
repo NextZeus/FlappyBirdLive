@@ -53,9 +53,10 @@
      <Compile Include="Assets\Flappy Bird Style\Scripts\RepeatingBackground.cs" />
      <Compile Include="Assets\Flappy Bird Style\Scripts\ScrollingObject.cs" />
      <Compile Include="Assets\Live\Scripts\BirdLive.cs" />
+     <Compile Include="Assets\Live\Scripts\ColumnLive.cs" />
      <Compile Include="Assets\Live\Scripts\GameController.cs" />
-     <Compile Include="Assets\RepatingBackGroundLive.cs" />
-     <Compile Include="Assets\ScrollingObjectLive.cs" />
+     <Compile Include="Assets\Live\Scripts\RepatingBackGroundLive.cs" />
+     <Compile Include="Assets\Live\Scripts\ScrollingObjectLive.cs" />
      <None Include="Assets\Flappy Bird Style\_ReadMe.txt" />
  <Reference Include="Facebook.Unity.Settings">
  <HintPath>/Users/lixd/Documents/myProject/unityProjects/FlappyBirdLive/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
