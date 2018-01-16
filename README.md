@@ -1,3 +1,4 @@
+```
 
 Input.GetMouseButtonDown(0) 鼠标左键
 rb2d.AddForce(new Vector2(0, 100f)); //Y轴方向施力
@@ -55,3 +56,4 @@ private void RepatingBackGround(){
     Vector2 groundOffset = new Vector2(groundHorizontalLength * 2f, 0);
     transform.position = (Vector2)transform.position + groundOffset;
 }
+```
